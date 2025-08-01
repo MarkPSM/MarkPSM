@@ -1,5 +1,5 @@
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=900&duration=2500&pause=700&color=007EF7&background=FF000000&center=true&random=false&width=435&lines=Welcome+to+my+Bio!+(%E3%81%A3+%CD%A1%E1%B5%94%E2%80%AF%E3%85%85+%CD%A1%E1%B5%94)%E3%81%A3!+;Bem+vindo+%C3%A0+minha+Bio!++(%E3%81%A3+%CD%A1%E1%B5%94%E2%80%AF%E3%85%85+%CD%A1%E1%B5%94)%E3%81%A3!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&pause=400&center=true&vCenter=true&width=435&lines=Welcome+to+my+bio!;Bem-vindo+%C3%A0+minha+bio!" alt="Typing SVG" /></a>
 </div>
 
 <div>
