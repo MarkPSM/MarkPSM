@@ -5,16 +5,9 @@
 <div>
 <p>Prazer, meu nome é Marcos Paulo!👋</p>
 
-<p>Outrora com o usuário Markinsz</p>
-
 <p>Estou estudando tanto para Técnico em Desenvolvimento de Sistemas (ETEC) quanto em técnico em Desenvolvimento de Jogos (SENAI)</p>
 </div>
 
-<div>
-    <a href="https://github.com/Markinsz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markinsz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markinsz&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div>
     <a href="https://github.com/MarkPSM">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkPSM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
