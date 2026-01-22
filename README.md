@@ -33,8 +33,8 @@
 <br>
 <div>
   <h2>🎓 Formação Acadêmica</h2> 
-    <p>💻 Cursando Técnico em Desenvolvimento de Sistemas - ETEC Jorge Street - São Caetano do Sul</p> 
-    <p>💻 Cursando Técnico em Desenvolvimento de Jogos Digitais - Escola Senai Paulo Antônio Skaf - São Caetano do Sul</p> 
+    <p>💻 Técnico em Desenvolvimento de Sistemas - ETEC Jorge Street - São Caetano do Sul</p> 
+    <p>💻 Técnico em Desenvolvimento de Jogos Digitais - Escola Senai Paulo Antônio Skaf - São Caetano do Sul</p> 
 </div>
 <br>
 <div>
